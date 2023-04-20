@@ -51,6 +51,14 @@ TV/Telas Grandes: acima de 1200px
     body{
         background-image: linear-gradient(to right, #302047, #553C64, #8E6175);
     }
+
+    div#formulario > h1{
+        font-size: 2em;
+    }
+
+    div#formulario > p{
+        font-size: 1.2em;
+    }
 }
 
 
